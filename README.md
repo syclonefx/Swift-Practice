@@ -8,7 +8,8 @@ This is a repo of my notes and practice apps for various Swift frameworks and th
 
 ### Swift Frameworks
 - [Dates](/Swift%20Frameworks/Dates/)   
-- [SwiftData](/Swift%20Frameworks/SwiftDataPractice/)
+- [SwiftData](/Swift%20Frameworks/SwiftData/)
+- [WebKit](/Swift%20Frameworks/WebKit/)
 
 ### Swift Components
 - [Keyboard](/SwiftUI%20Components/Keyboard/)
