@@ -8,6 +8,9 @@ This is a repo of my notes and practice apps for various Swift frameworks and th
 ### Swift Frameworks
 - [Dates](/Swift%20Frameworks/Dates/)   
 - [SwiftData](/Swift%20Frameworks/SwiftData/)
+- [SwiftUI](/Swift%20Frameworks/SwiftUI/)
+  - [Reddit Request](/Swift%20Frameworks/SwiftUI/Reddit/)
+  - [SUCODEY](/Swift%20Frameworks/SwiftUI/SUCODEY/)
 - [WebKit](/Swift%20Frameworks/WebKit/)
 
 ### Swift Components
