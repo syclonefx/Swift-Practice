@@ -11,6 +11,7 @@ This is a repo of my notes and practice apps for various Swift frameworks and th
 - [SwiftUI](/Swift%20Frameworks/SwiftUI/)
   - [Reddit Request](/Swift%20Frameworks/SwiftUI/Reddit/)
   - [SUCODEY](/Swift%20Frameworks/SwiftUI/SUCODEY/)
+  - [YouTube](/Swift%20Frameworks/SwiftUI/YouTube/)
 - [WebKit](/Swift%20Frameworks/WebKit/)
 
 ### Swift Components
