@@ -13,9 +13,7 @@ struct TabShape: Shape {
   /// Adding shape animation
   var animatableData: CGFloat {
     get { midPoint }
-    set {
-      midPoint = newValue
-    }
+    set { midPoint = newValue }
   }
   
   func path(in rect: CGRect) -> Path {

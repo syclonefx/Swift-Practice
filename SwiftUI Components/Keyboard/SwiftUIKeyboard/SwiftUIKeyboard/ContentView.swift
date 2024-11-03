@@ -46,6 +46,9 @@ struct ContentView: View {
                 }
               }
             }
+            .onAppear {
+//              numberPadIsFocused = true
+            }
         }
         Button("Show Sheet") {
           isShowingSheet = true

@@ -8,8 +8,8 @@
 import SwiftUI
 
 struct SheetView: View {
+  @Environment(\.dismiss) var dismiss
   @FocusState private var isFocused: Bool
-  
   
   @State private var name = "Chuck"
   @State private var score: Double = 5
@@ -40,8 +40,12 @@ struct SheetView: View {
               
               Button("Done") {
                 isFocused = false
+                dismiss()
               }
             }
+          }
+          .onAppear {
+            isFocused = true
           }
       }
       Spacer()
