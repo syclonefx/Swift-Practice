@@ -11,7 +11,7 @@
 [Learn to code](https://developer.apple.com/learn/)   
 [Sample Apps Tutorials](https://developer.apple.com/tutorials/sample-apps)   
 [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)  
-[SwiftUI Concepts  Tutorials](https://developer.apple.com/tutorials/swiftui-concepts) 
+[SwiftUI Concepts  Tutorials](https://developer.apple.com/tutorials/swiftui-concepts)   
 [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/)   
 [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training/)   
 [Creating a watchOS app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app/)   
