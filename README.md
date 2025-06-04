@@ -10,7 +10,7 @@ This is a repo of my notes and practice apps for various Swift frameworks and th
 - [SwiftData](/Swift%20Frameworks/SwiftData/)
 - [SwiftUI](/Swift%20Frameworks/SwiftUI/)
   - [Reddit Request](/Swift%20Frameworks/SwiftUI/Reddit/)
-  - [SUCODEY](/Swift%20Frameworks/SwiftUI/SUCODEY/)
+  - [SuCodee](/Swift%20Frameworks/SwiftUI/SuCodee/)
   - [YouTube](/Swift%20Frameworks/SwiftUI/YouTube/)
 - [WebKit](/Swift%20Frameworks/WebKit/)
 

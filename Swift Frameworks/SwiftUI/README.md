@@ -4,8 +4,8 @@
 * [Reddit Request](/Swift%20Frameworks/SwiftUI/Reddit/)
   * [ThisWeekView](/Swift%20Frameworks/SwiftUI/Reddit/ThisWeekView/)
 
-### [SUCODEY - from Reddit](/Swift%20Frameworks/SwiftUI/SUCODEY/)
-* [HoldToDelete](/Swift%20Frameworks/SwiftUI/SUCODEY/HoldToDelete/)
-* [FeedbackView](/Swift%20Frameworks/SwiftUI/SUCODEY/FeedbackView/)
-* [StepWithAnimation](/Swift%20Frameworks/SwiftUI/SUCODEY/StepWithAnimation/)
-* [TrimView](/Swift%20Frameworks/SwiftUI/SUCODEY/TrimView/)
+### [SuCodee - from Reddit](/Swift%20Frameworks/SwiftUI/SuCodee/)
+* [HoldToDelete](/Swift%20Frameworks/SwiftUI/SuCodee/HoldToDelete/)
+* [FeedbackView](/Swift%20Frameworks/SwiftUI/SuCodee/FeedbackView/)
+* [StepWithAnimation](/Swift%20Frameworks/SwiftUI/SuCodee/StepWithAnimation/)
+* [TrimView](/Swift%20Frameworks/SwiftUI/SuCodee/TrimView/)
