@@ -7,7 +7,6 @@
 [Swift Resources](https://developer.apple.com/swift/resources/)   
 [Apple Design Resources](https://developer.apple.com/design/resources/)   
 
-
 #### WWDC
 [WWDC](https://developer.apple.com/wwdc25/)   
 **(New)** [Highlights of new technologies introduced at WWDC25](https://developer.apple.com/documentation/updates/wwdc2025/)   
@@ -16,7 +15,7 @@
 
 #### Tutorials
 [Learn to code](https://developer.apple.com/learn/)   
-[Pathways](https://developer.apple.com/pathways/)
+[Pathways](https://developer.apple.com/pathways/)   
 **(New)** [Sample Code Library](https://developer.apple.com/documentation/samplecode/)   
 [Sample Apps Tutorials](https://developer.apple.com/tutorials/sample-apps)   
 [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)  
