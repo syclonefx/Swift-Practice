@@ -3,9 +3,12 @@
 #### Resources
 [Apple Developer Documentation](https://developer.apple.com/documentation/)   
 [Apple Developer Documentation - Updates](https://developer.apple.com/documentation/updates)   
+**(New)** [Xcode Documentation](https://developer.apple.com/documentation/xcode)
 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)   
 [Swift Resources](https://developer.apple.com/swift/resources/)   
+**(New)** [SwiftUI Resources](https://developer.apple.com/swiftui/resources/)
 [Apple Design Resources](https://developer.apple.com/design/resources/)   
+**(New)** [Icon Composer](https://developer.apple.com/icon-composer/)   
 
 #### WWDC
 [WWDC](https://developer.apple.com/wwdc25/)   
@@ -25,3 +28,6 @@
 [Creating a watchOS app](https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app/)   
 [Creating a macOS app](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app/)   
 [Bring an iPad App to the Mac with Mac Catalyst](https://developer.apple.com/tutorials/mac-catalyst/)   
+
+### API Updates   
+**(New)** [SwiftUI updates](https://developer.apple.com/documentation/updates/swiftui)   
