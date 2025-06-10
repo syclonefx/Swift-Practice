@@ -1,6 +1,8 @@
 # Swift Practice
 This is a repo of my notes and practice apps for various Swift frameworks and third party libraries as I learn Swift programming.
 
+Version: iOS 17.4   
+
 ### Tutorials and Resources
 - [Apple resources and tutorials](/apple_resources_and_learning.md)
 - [Learning resources for Swift](/learning_resources_for_swift.md)   
