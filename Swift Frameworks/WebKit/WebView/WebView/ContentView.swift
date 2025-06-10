@@ -40,7 +40,10 @@ struct ContentView: View {
       
       <body>
       <h1>This is <span>HTML</span> string</h1>
-      <p>Hello</p>
+      <h2>Hello, World</h2>
+      <h3>iOS 18.5</h3>
+      <p>This is a how you can use WebKit in your SwiftUI project</p>
+      <img src="https://syclonefx.com/swift/swiftui_logo.jpg" alt="SwiftI logo" style="width: 250px; height: auto;">
       </body>
       </html>
       """)
