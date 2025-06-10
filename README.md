@@ -3,6 +3,10 @@ This is a repo of my notes and practice apps for various Swift frameworks and th
 
 Version: iOS 17.4   
 
+### Updates
+Updated the WebKit WebView project to iOS 18.5
+
+
 ### Tutorials and Resources
 - [Apple resources and tutorials](/apple_resources_and_learning.md)
 - [Learning resources for Swift](/learning_resources_for_swift.md)   
