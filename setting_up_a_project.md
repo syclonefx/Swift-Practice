@@ -1,5 +1,6 @@
 ## Setting up a project
 
+Xcode 16.4
 
 #### SwiftLint
 
