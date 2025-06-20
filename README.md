@@ -5,7 +5,7 @@ Version: iOS 17.4
 **NOTE:** All iOS projects will be in a branch with the name of their version number.
 
 ### Updates
-- Updated the WebKit WebView project to iOS 18.5. 
+- Updated the WebKit WebView project to iOS 26 Beta 1. 
 
 
 ### Tutorials and Resources
