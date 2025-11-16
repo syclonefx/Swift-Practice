@@ -2,6 +2,11 @@
 This is a repo of my notes and practice apps for various Swift frameworks and third party libraries as I learn Swift programming.
 
 Version: iOS 17.4   
+**NOTE:** All iOS projects will be in a branch with the name of their version number.
+
+### Updates
+- Updated the WebKit WebView project to iOS 26 Beta 1. 
+
 
 ### Tutorials and Resources
 - [Apple resources and tutorials](/apple_resources_and_learning.md)

@@ -3,12 +3,14 @@
 #### Resources
 [Apple Developer Documentation](https://developer.apple.com/documentation/)   
 [Apple Developer Documentation - Updates](https://developer.apple.com/documentation/updates)   
-**(New)** [Xcode Documentation](https://developer.apple.com/documentation/xcode)
+**(New)** [Xcode Documentation](https://developer.apple.com/documentation/xcode)   
 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)   
+**New** [Human Interface Guidelines - Materials](https://developer.apple.com/design/human-interface-guidelines/materials)   
 [Swift Resources](https://developer.apple.com/swift/resources/)   
-**(New)** [SwiftUI Resources](https://developer.apple.com/swiftui/resources/)
+**(New)** [SwiftUI Resources](https://developer.apple.com/swiftui/resources/)   
 [Apple Design Resources](https://developer.apple.com/design/resources/)   
 **(New)** [Icon Composer](https://developer.apple.com/icon-composer/)   
+**(New)** [Meet with Apple](https://developer.apple.com/events/view/upcoming-events)   
 
 #### WWDC
 [WWDC](https://developer.apple.com/wwdc25/)   

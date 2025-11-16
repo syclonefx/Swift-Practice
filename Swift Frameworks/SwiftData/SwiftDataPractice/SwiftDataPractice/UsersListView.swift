@@ -59,7 +59,7 @@ struct UsersListView: View {
   }
 }
 
-#Preview {
+#Preview(traits: .modifier(MockDataPreviewModifier())) {
   NavigationStack {
     UsersListView()
   }
