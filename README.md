@@ -1,7 +1,7 @@
 # Swift Practice
 This is a repo of my notes and practice apps for various Swift frameworks and third party libraries as I learn Swift programming.
 
-Version: iOS 17.4   
+Version: iOS 26.1
 **NOTE:** All iOS projects will be in a branch with the name of their version number.
 
 ### Updates

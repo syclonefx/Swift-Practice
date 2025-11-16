@@ -11,6 +11,7 @@
 [Apple Design Resources](https://developer.apple.com/design/resources/)   
 **(New)** [Icon Composer](https://developer.apple.com/icon-composer/)   
 **(New)** [Meet with Apple](https://developer.apple.com/events/view/upcoming-events)   
+**(New)** [Apple Developer Youtube Channel](https://www.youtube.com/@AppleDeveloper)   
 
 #### WWDC
 [WWDC](https://developer.apple.com/wwdc25/)   
