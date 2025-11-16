@@ -26,7 +26,7 @@ enum UserRole: Codable, CaseIterable, Identifiable {
 
 @Model
 class User {
-  let id: UUID = UUID()
+  var id: UUID = UUID()
   var name: String
   var emailAddress: String
   var role: UserRole = UserRole.user

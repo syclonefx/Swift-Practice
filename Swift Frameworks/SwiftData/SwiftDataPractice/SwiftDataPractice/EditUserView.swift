@@ -49,16 +49,11 @@ struct EditUserView: View {
   }
 }
 
-#Preview {
-  do {
-    let config = ModelConfiguration(isStoredInMemoryOnly: true)
-    let container = try ModelContainer(for: User.self, configurations: config)
-    let example = User(name: "Steve Jobs", emailAddress: "steve@apple.com", role: .admin)
-    
-    return EditUserView(user: .constant(example))
-      .modelContainer(container)
-  } catch {
-    return Text("Failed to create preview: \(error.localizedDescription)")
+#Preview(traits: .modifier(MockDataPreviewModifier())) {
+  @Previewable @Query var users: [User]
+  if let firstUser = users.first {
+    EditUserView(user: .constant(firstUser))
+  } else {
+    Text("No Users to Preview")
   }
-  
 }

@@ -55,16 +55,11 @@ struct UserDetailsView: View {
   }
 }
 
-#Preview {
-  do {
-    let config = ModelConfiguration(isStoredInMemoryOnly: true)
-    let container = try ModelContainer(for: User.self, configurations: config)
-    let example = User(name: "Steve Jobs", emailAddress: "steve@apple.com", role: .admin)
-    return NavigationStack {
-      UserDetailsView(user: example)
-        .modelContainer(container)
+#Preview(traits: .modifier(MockDataPreviewModifier())) {
+  @Previewable @Query var users: [User]
+  NavigationStack {
+    if let firstUser = users.first {
+      UserDetailsView(user: firstUser)
     }
-  } catch {
-    return Text("Failed to create preview: \(error.localizedDescription)")
   }
 }

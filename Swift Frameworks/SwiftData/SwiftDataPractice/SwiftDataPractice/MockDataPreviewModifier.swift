@@ -1,11 +1,12 @@
-## SwiftDataPractice
-[https://developer.apple.com/documentation/swiftdata](https://developer.apple.com/documentation/swiftdata)   
-iOS 18.0+ 
-This is a project to learn SwiftData   
+//
+// MockDataPreviewModifier.swift
+// SwiftDataPractice
+// 
+// Created by syclonefx on 8/4/25
+// https://syclonefx.com
+// https://github.com/syclonefx
+// 
 
-**Setting up preview to work with SwiftData**
-1. Setup MockDataPreviewModifier
-```swift
 import SwiftData
 import SwiftUI
 
@@ -31,16 +32,3 @@ struct MockDataPreviewModifier: PreviewModifier {
     content.modelContainer(context)
   }
 }
-```
-
-2. Setup Preview to work with the MockDataPreviewModifier
-```swift
-#Preview(traits: .modifier(MockDataPreviewModifier())) {
-  @Previewable @Query var users: [User]
-  NavigationStack {
-    if let firstUser = users.first {
-      UserDetailsView(user: firstUser)
-    }
-  }
-}
-```

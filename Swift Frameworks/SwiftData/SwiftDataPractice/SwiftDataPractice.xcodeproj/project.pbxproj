@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5804F4632BE408E4003EABF9 /* UserDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5804F4622BE408E4003EABF9 /* UserDetailsView.swift */; };
+		5842B7F42E4156E0006E6177 /* MockDataPreviewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5842B7F32E4156E0006E6177 /* MockDataPreviewModifier.swift */; };
 		589523A42BE3D0BF001D9311 /* SwiftDataPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589523A32BE3D0BF001D9311 /* SwiftDataPracticeApp.swift */; };
 		589523A62BE3D0BF001D9311 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 589523A52BE3D0BF001D9311 /* ContentView.swift */; };
 		589523A82BE3D0C0001D9311 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 589523A72BE3D0C0001D9311 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		5804F4622BE408E4003EABF9 /* UserDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailsView.swift; sourceTree = "<group>"; };
+		5842B7F32E4156E0006E6177 /* MockDataPreviewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockDataPreviewModifier.swift; sourceTree = "<group>"; };
 		589523A02BE3D0BF001D9311 /* SwiftDataPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDataPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		589523A32BE3D0BF001D9311 /* SwiftDataPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataPracticeApp.swift; sourceTree = "<group>"; };
 		589523A52BE3D0BF001D9311 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				589523A32BE3D0BF001D9311 /* SwiftDataPracticeApp.swift */,
 				589523A52BE3D0BF001D9311 /* ContentView.swift */,
 				589523B12BE3D1D8001D9311 /* User.swift */,
+				5842B7F32E4156E0006E6177 /* MockDataPreviewModifier.swift */,
 				589523B32BE3E1FB001D9311 /* AddUserView.swift */,
 				589523B52BE3E206001D9311 /* EditUserView.swift */,
 				589523B72BE3E269001D9311 /* UsersListView.swift */,
@@ -110,7 +113,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
-				LastUpgradeCheck = 1530;
+				LastUpgradeCheck = 1640;
 				TargetAttributes = {
 					5895239F2BE3D0BF001D9311 = {
 						CreatedOnToolsVersion = 15.3;
@@ -157,6 +160,7 @@
 				589523B82BE3E269001D9311 /* UsersListView.swift in Sources */,
 				589523B62BE3E206001D9311 /* EditUserView.swift in Sources */,
 				589523A42BE3D0BF001D9311 /* SwiftDataPracticeApp.swift in Sources */,
+				5842B7F42E4156E0006E6177 /* MockDataPreviewModifier.swift in Sources */,
 				589523B22BE3D1D8001D9311 /* User.swift in Sources */,
 				589523B42BE3E1FB001D9311 /* AddUserView.swift in Sources */,
 			);
@@ -200,6 +204,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HUJVG5UV6V;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -217,7 +222,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -263,6 +268,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HUJVG5UV6V;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -274,7 +280,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -292,7 +298,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftDataPractice/Preview Content\"";
-				DEVELOPMENT_TEAM = HUJVG5UV6V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = SwiftData;
@@ -301,6 +306,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -322,7 +328,6 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftDataPractice/Preview Content\"";
-				DEVELOPMENT_TEAM = HUJVG5UV6V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = SwiftData;
@@ -331,6 +336,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
