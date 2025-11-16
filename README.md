@@ -1,11 +1,12 @@
 # Swift Practice
 This is a repo of my notes and practice apps for various Swift frameworks and third party libraries as I learn Swift programming.
 
-Version: iOS 26.1
+Version: iOS 26.1   
 **NOTE:** All iOS projects will be in a branch with the name of their version number.
 
 ### Updates
-- Updated the WebKit WebView project to iOS 26 Beta 1. 
+- Added Apple Developer YouTube channel to Apple resources and learning.   
+- Updated the WebKit WebView project to iOS 26.   
 
 
 ### Tutorials and Resources
